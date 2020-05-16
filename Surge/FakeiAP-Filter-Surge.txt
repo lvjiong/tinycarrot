@@ -1,4 +1,6 @@
-#Speak&Translate
+#PocketWorld3D
+DOMAIN,gdcasapi.searona.com
+#Restaurant
 DOMAIN,ios-global-restaurant.twomiles.cn
 #Speak&Translate
 DOMAIN,subscription.ampme.com
