@@ -1,4 +1,6 @@
 #Speak&Translate
+DOMAIN,ios-global-restaurant.twomiles.cn
+#Speak&Translate
 DOMAIN,subscription.ampme.com
 #Speak&Translate
 DOMAIN,api.speak-translate.com
