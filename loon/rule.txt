@@ -1,0 +1,200 @@
+#PocketWorld3D
+DOMAIN,gdcasapi.searona.com,Fake iAP Policy
+#AmpMe
+DOMAIN,subscription.ampme.com,Fake iAP Policy
+#Restaurant
+DOMAIN,ios-global-restaurant.twomiles.cn,Fake iAP Policy
+#Speak&Translate
+DOMAIN,api.speak-translate.com,Fake iAP Policy
+#MuscleBooster
+DOMAIN,menscoach-api.asqq.io,Fake iAP Policy
+#Eggzy
+DOMAIN,subs.platforms.team,Fake iAP Policy
+######################################
+#PXX itunes
+DOMAIN-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+######################################
+#Cercube
+DOMAIN,api.cercube.com,Fake Cydia Tweak
+######################################
+#Codecademy
+DOMAIN,www.codecademy.com,Fake iAP Policy
+#Shapr3D
+DOMAIN,prod.api.shapr3d.com,Fake iAP Policy
+#IELTS
+DOMAIN,dbvirtualeducation.com,Fake iAP Policy
+#ToeicEZ
+DOMAIN,toeicez.com,Fake iAP Policy
+#Followly
+DOMAIN,followly.m-mobileapps.com,Fake iAP Policy
+#Aivartar
+DOMAIN,aivatar-subscription.sticker.place,Fake iAP Policy
+#Romote+
+DOMAIN,nodejs.cherpake.com,Fake iAP Policy
+#Falou
+DOMAIN,sub.falou.app,Fake iAP Policy
+#STORIO
+DOMAIN,api.apphud.com,Fake iAP Policy
+#pixiv
+DOMAIN,app-api.pixiv.net,Fake iAP Policy
+DOMAIN,oauth.secure.pixiv.net,Fake iAP Policy
+#Sanford Guide
+DOMAIN,naga.sanfordguide.com,Fake iAP Policy
+#VideoStart
+DOMAIN,testapps.videostarapp.com,Fake iAP Policy
+#Presco
+DOMAIN,presco-api.gotbatu.com,Fake iAP Policy
+#Followers
+DOMAIN,api.socialguide.co,Fake iAP Policy
+#RETO3D
+DOMAIN,weewungwung.com,Fake iAP Policy
+#Simpler
+DOMAIN,simpler.via-mobi.com,Fake iAP Policy
+#passwordmanager
+DOMAIN,djit-end.appspot.com,Fake iAP Policy
+#chordify
+DOMAIN,chordify.net,Fake iAP Policy
+#Rocka
+DOMAIN,api.rockalearning.com,Fake iAP Policy
+#Lensa
+DOMAIN,appapi.neuralprisma.com,Fake iAP Policy
+#Wattpad
+DOMAIN,api.wattpad.com,Fake iAP Policy
+#Funimate
+DOMAIN,api.funimate.com,Fake iAP Policy
+#Polarr
+DOMAIN,api.polarr.co,Fake iAP Policy
+#   Zing Mp3
+#   DOMAIN,api.global.mp3.zing.vn,Fake iAP Policy
+#Snap&Trans
+DOMAIN,receipt-validator.herewetest.com,Fake iAP Policy
+#Presco Overlay
+DOMAIN,overlay-api.gotbatu.com,Fake iAP Policy
+#MoneyLover
+DOMAIN,revoapi.moneylover.me,Fake iAP Policy
+DOMAIN,static.moneylover.me,Fake iAP Policy
+#Daggerhood
+DOMAIN,api.playond.com,Fake iAP Policy
+#Vinkle
+DOMAIN,dupa-api.doupaiapp.com,Fake iAP Policy
+#Faded
+DOMAIN,api.madewithfaded.com,Fake iAP Policy
+#PlayerXtreme
+DOMAIN,secure.istreamer.com,Fake iAP Policy
+#farfaria
+DOMAIN, api.farfaria.com, Fake iAP Policy
+#Quantumult X bypass
+DOMAIN, activation.crossutility.com, reject
+#BabyBus
+DOMAIN,pay.babybus.com,Fake iAP Policy
+#AutoCAD
+DOMAIN,app.autocad360.com,Fake iAP Policy
+#VMonkey
+DOMAIN,www.api.monkeyuni.net,Fake iAP Policy
+#   TIKTOK
+DOMAIN,api3-normal-c-lf.amemv.com,Fake iAP Policy
+DOMAIN-KEYWORD,h2.tiktokv.com,Fake iAP Policy
+#Spendee
+DOMAIN,api.spendee.com,Fake iAP Policy
+#Prequel
+DOMAIN,cloudapp.aiarlabs.com,Fake iAP Policy
+#Working Copy
+DOMAIN,education.github.com,Fake iAP Policy
+#Camscanner
+DOMAIN,api-cs.intsig.net,Fake iAP Policy
+#Planner 5D
+DOMAIN,planner5d.com,Fake iAP Policy
+#Day One
+DOMAIN,dayone.me,Fake iAP Policy
+#Endel
+DOMAIN,api-production.endel.io,Fake iAP Policy
+# Chic Cam
+DOMAIN,chic.mtlab.meitu.com,Fake iAP Policy
+# Photoshop
+DOMAIN,lcs-mobile-cops.adobe.io,Fake iAP Policy
+# Zing TV
+#DOMAIN,api.tv.zing.vn,Fake iAP Policy
+# Lich Van Nien 2020 (Lich Viet)
+DOMAIN,api.lichviet.org,Fake iAP Policy
+# QIYIVideo
+DOMAIN,intl-i.vip.iqiyi.com,Fake iAP Policy
+DOMAIN,intl-passport.iqiyi.com,Fake iAP Policy
+# Fing
+DOMAIN,cdn.fing.io,Fake iAP Policy
+# vizmato
+DOMAIN,web.vizmato.com,Fake iAP Policy
+# SoloLearn
+DOMAIN,api.sololearn.com,Fake iAP Policy
+# Vizzywig2020
+DOMAIN,ec2-52-34-190-224.us-west-2.compute.amazonaws.com,Fake iAP Policy
+# MusiXmatch
+DOMAIN,apic.musixmatch.com,Fake iAP Policy
+#JibJab
+DOMAIN,origin-prod-phoenix.jibjab.com,Fake iAP Policy
+# Termius
+DOMAIN,api.termius.com,Fake iAP Policy
+# PDF Expert
+DOMAIN,license.pdfexpert.com,Fake iAP Policy
+# Gyroscope
+DOMAIN,api.gyrosco.pe,Fake iAP Policy
+# Kine Master
+DOMAIN,api-kinemaster-assetstore.kinemasters.com,Fake iAP Policy
+DOMAIN,api-kinemaster-assetstore.nexstreaming.com,Fake iAP Policy
+# YouTube Music
+#DOMAIN,youtubei.googleapis.com,Fake iAP Policy
+# Over
+DOMAIN,api.overhq.com,Fake iAP Policy
+# Bright
+DOMAIN,engbright.com,Fake iAP Policy
+# Ulike
+DOMAIN,commerce-i18n-api.faceu.mobi,Fake iAP Policy
+# Blinkist
+DOMAIN,api.blinkist.com,Fake iAP Policy
+# lingokids
+DOMAIN,api.lingokids.com,Fake iAP Policy
+# adGuard
+DOMAIN,mobile-api.adguard.com,Fake iAP Policy
+# Boom Music
+DOMAIN,apimboom2.globaldelight.net,Fake iAP Policy
+# Musicalm
+DOMAIN,www.peacefulsoundsapp.com,Fake iAP Policy
+DOMAIN,subscription.aresframework.com,Fake iAP Policy
+# Update Nichi
+DOMAIN,mini-hk.bybutter.com,Fake iAP Policy
+DOMAIN,pay.wecut.com,Fake iAP Policy
+# 1Blocker, Loopsie, Infltr, Yoga Studio
+DOMAIN,api.revenuecat.com,Fake iAP Policy
+DOMAIN,api.faceapp.io,Fake iAP Policy
+DOMAIN,api.unfold.app,Fake iAP Policy
+DOMAIN,asla.joytunes.com,Fake iAP Policy
+#NhacCuaTui
+#DOMAIN,graph.nhaccuatui.com,Fake iAP Policy
+DOMAIN,accounts.elevateapp.net,Fake iAP Policy
+DOMAIN,pixmagicapp.com,Fake iAP Policy
+DOMAIN,api.busuu.com,Fake iAP Policy
+DOMAIN,bmall.camera360.com,Fake iAP Policy
+DOMAIN,entitlements.adobe.io,Fake iAP Policy
+DOMAIN,photos.adobe.io,Fake iAP Policy
+DOMAIN,api-intl.mr.meitu.com,Fake iAP Policy
+DOMAIN-SUFFIX,api.memrise.com,Fake iAP Policy
+DOMAIN-SUFFIX,api.picsart.com,Fake iAP Policy
+DOMAIN-SUFFIX,api.mondlylanguages.com,Fake iAP Policy
+DOMAIN,vsco.co,Fake iAP Policy
+DOMAIN-SUFFIX,pool.elsanow.io,Fake iAP Policy
+# Calm
+DOMAIN-SUFFIX,api.calm.com,Fake iAP Policy
+DOMAIN-SUFFIX,api.indicative.com,Fake iAP Policy
+DOMAIN-SUFFIX,lambda.us-east-1.amazonaws.com,Fake iAP Policy
+#Instasize
+DOMAIN,api.instasize.com,Fake iAP Policy
+DOMAIN,purchases.ws.pho.to,Fake iAP Policy
+DOMAIN,nomo.dafork.com,Fake iAP Policy
+DOMAIN,cloudapp.aiarlabs.com,Fake iAP Policy
+DOMAIN,buy.itunes.apple.com,Fake iAP Policy
+#Infltr
+DOMAIN,us-central1-infltr.cloudfunctions.net,Fake iAP Policy
+DOMAIN,owa.videoshowiosglobalserver.com,Fake iAP Policy
+DOMAIN,app.algoriddim.com,Fake iAP Policy
+#DOMAIN,viva.v21xy.com,Fake iAP Policy
+#DOMAIN,viva-asia1.vvbrd.com,Fake iAP Policy
+DOMAIN,api.getmimo.com,Fake iAP Policy
