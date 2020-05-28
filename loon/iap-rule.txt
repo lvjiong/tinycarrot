@@ -11,9 +11,6 @@ DOMAIN,menscoach-api.asqq.io,Fake iAP Policy
 #Eggzy
 DOMAIN,subs.platforms.team,Fake iAP Policy
 ######################################
-#PXX itunes
-DOMAIN-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
-######################################
 #Cercube
 DOMAIN,api.cercube.com,Fake Cydia Tweak
 ######################################
