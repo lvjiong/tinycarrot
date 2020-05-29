@@ -1,3 +1,7 @@
+#iTranslate
+HOST,ssl-api.itranslateapp.com,Fake iAP Policy
+#Du recorder
+HOST,donate-api.recorder.duapps.com,Fake iAP Policy
 #PocketWorld3D
 HOST,gdcasapi.searona.com,Fake iAP Policy
 #AmpMe

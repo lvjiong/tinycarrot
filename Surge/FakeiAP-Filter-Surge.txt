@@ -1,3 +1,7 @@
+#iTranslate
+DOMAIN,ssl-api.itranslateapp.com
+#Du recorder
+DOMAIN,donate-api.recorder.duapps.com
 #PocketWorld3D
 DOMAIN,gdcasapi.searona.com
 #Restaurant
